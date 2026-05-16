@@ -15,7 +15,7 @@ __pycache__/
 .vscode/
 
 # Dataset files (optional - if too large)
-*.csv
+Sample - Superstore.csv
 *.xlsx
 
 # Model files
